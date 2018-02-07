@@ -1,0 +1,3 @@
+<h1>The Jolly Pirate Boat Club Database</h1>
+
+This short Java program implements CRUD functionalities for a fictitious boat club. The program allows you to add, modify, and delete club members and boats, to assign berths and to display information from a database. I implemented a console navigation interface, and an algorithm to save (and load) a database from an external file. Encapsulation techniques are used to keep the information correct and error free.
